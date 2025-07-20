@@ -1,0 +1,182 @@
+﻿
+
+IPAddress         : fe80::8e08:7960:2c0:bb92%7
+InterfaceIndex    : 7
+InterfaceAlias    : VMware Network Adapter VMnet8
+AddressFamily     : IPv6
+Type              : Unicast
+PrefixLength      : 64
+PrefixOrigin      : WellKnown
+SuffixOrigin      : Link
+AddressState      : Preferred
+ValidLifetime     : 
+PreferredLifetime : 
+SkipAsSource      : False
+PolicyStore       : ActiveStore
+
+IPAddress         : fe80::fddf:4c9b:1033:a72d%8
+InterfaceIndex    : 8
+InterfaceAlias    : VMware Network Adapter VMnet1
+AddressFamily     : IPv6
+Type              : Unicast
+PrefixLength      : 64
+PrefixOrigin      : WellKnown
+SuffixOrigin      : Link
+AddressState      : Preferred
+ValidLifetime     : 
+PreferredLifetime : 
+SkipAsSource      : False
+PolicyStore       : ActiveStore
+
+IPAddress         : fe80::f046:20df:6708:ab77%18
+InterfaceIndex    : 18
+InterfaceAlias    : 이더넷 3
+AddressFamily     : IPv6
+Type              : Unicast
+PrefixLength      : 64
+PrefixOrigin      : WellKnown
+SuffixOrigin      : Link
+AddressState      : Preferred
+ValidLifetime     : 
+PreferredLifetime : 
+SkipAsSource      : False
+PolicyStore       : ActiveStore
+
+IPAddress         : fe80::45a8:4ff8:3e4b:d39b%4
+InterfaceIndex    : 4
+InterfaceAlias    : 이더넷 2
+AddressFamily     : IPv6
+Type              : Unicast
+PrefixLength      : 64
+PrefixOrigin      : WellKnown
+SuffixOrigin      : Link
+AddressState      : Preferred
+ValidLifetime     : 
+PreferredLifetime : 
+SkipAsSource      : False
+PolicyStore       : ActiveStore
+
+IPAddress         : fe80::28d4:3f70:e6f2:d03d%14
+InterfaceIndex    : 14
+InterfaceAlias    : 이더넷
+AddressFamily     : IPv6
+Type              : Unicast
+PrefixLength      : 64
+PrefixOrigin      : WellKnown
+SuffixOrigin      : Link
+AddressState      : Preferred
+ValidLifetime     : 
+PreferredLifetime : 
+SkipAsSource      : False
+PolicyStore       : ActiveStore
+
+IPAddress         : ::1
+InterfaceIndex    : 1
+InterfaceAlias    : Loopback Pseudo-Interface 1
+AddressFamily     : IPv6
+Type              : Unicast
+PrefixLength      : 128
+PrefixOrigin      : WellKnown
+SuffixOrigin      : WellKnown
+AddressState      : Preferred
+ValidLifetime     : 
+PreferredLifetime : 
+SkipAsSource      : False
+PolicyStore       : ActiveStore
+
+IPAddress         : 192.168.175.1
+InterfaceIndex    : 7
+InterfaceAlias    : VMware Network Adapter VMnet8
+AddressFamily     : IPv4
+Type              : Unicast
+PrefixLength      : 24
+PrefixOrigin      : Dhcp
+SuffixOrigin      : Dhcp
+AddressState      : Preferred
+ValidLifetime     : 00:29:33
+PreferredLifetime : 00:29:33
+SkipAsSource      : False
+PolicyStore       : ActiveStore
+
+IPAddress         : 192.168.14.1
+InterfaceIndex    : 8
+InterfaceAlias    : VMware Network Adapter VMnet1
+AddressFamily     : IPv4
+Type              : Unicast
+PrefixLength      : 24
+PrefixOrigin      : Dhcp
+SuffixOrigin      : Dhcp
+AddressState      : Preferred
+ValidLifetime     : 00:29:33
+PreferredLifetime : 00:29:33
+SkipAsSource      : False
+PolicyStore       : ActiveStore
+
+IPAddress         : 192.168.191.1
+InterfaceIndex    : 18
+InterfaceAlias    : 이더넷 3
+AddressFamily     : IPv4
+Type              : Unicast
+PrefixLength      : 24
+PrefixOrigin      : Manual
+SuffixOrigin      : Manual
+AddressState      : Preferred
+ValidLifetime     : 
+PreferredLifetime : 
+SkipAsSource      : False
+PolicyStore       : ActiveStore
+
+IPAddress         : 192.168.56.1
+InterfaceIndex    : 4
+InterfaceAlias    : 이더넷 2
+AddressFamily     : IPv4
+Type              : Unicast
+PrefixLength      : 24
+PrefixOrigin      : Manual
+SuffixOrigin      : Manual
+AddressState      : Preferred
+ValidLifetime     : 
+PreferredLifetime : 
+SkipAsSource      : False
+PolicyStore       : ActiveStore
+
+IPAddress         : 192.168.0.84
+InterfaceIndex    : 14
+InterfaceAlias    : 이더넷
+AddressFamily     : IPv4
+Type              : Unicast
+PrefixLength      : 24
+PrefixOrigin      : Dhcp
+SuffixOrigin      : Dhcp
+AddressState      : Preferred
+ValidLifetime     : 21:00:47
+PreferredLifetime : 21:00:47
+SkipAsSource      : False
+PolicyStore       : ActiveStore
+
+IPAddress         : 127.0.0.1
+InterfaceIndex    : 1
+InterfaceAlias    : Loopback Pseudo-Interface 1
+AddressFamily     : IPv4
+Type              : Unicast
+PrefixLength      : 8
+PrefixOrigin      : WellKnown
+SuffixOrigin      : WellKnown
+AddressState      : Preferred
+ValidLifetime     : 
+PreferredLifetime : 
+SkipAsSource      : False
+PolicyStore       : ActiveStore
+
+
+
+
+Name               Enabled Description                                                          
+----               ------- -----------                                                          
+Administrator      False   컴퓨터 도메인을 관리하도록 기본 제공된 계정                                             
+DefaultAccount     False   시스템에서 관리하는 사용자 계정입니다.                                                
+Guest              False   게스트가 컴퓨터 도메인을 액세스하도록 기본 제공된 계정                                       
+SBA_USER           True                                                                         
+WDAGUtilityAccount False   Windows Defender Application Guard 시나리오용으로 시스템에서 관리 및 사용하는 사용자 계정입니다.
+
+
